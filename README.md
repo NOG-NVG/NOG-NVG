@@ -1,10 +1,10 @@
-                                                           Welcome to my page!
- 
-                                                                Hi there 👋
- 
-                                                              I'm Francisco.
-																																																					
-                                         Open to collaborating on interesting and innovative projects
+# 👋 Welcome to my GitHub!
+
+Hi there! I'm **Francisco**.
+
+🚀 I’m open to collaborating on **interesting and innovative projects**.
+
+💡 Always exploring new technologies and ideas.
 																																																				
                                                     
 ### LANGUAGES:
