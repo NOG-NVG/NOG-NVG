@@ -20,8 +20,6 @@ Mainly focused on:
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOG-NVG&layout=compact&hide=css,html)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOG-NVG&layout=compact&hide=css,html&theme=midnight-purple)
 
 </details>
